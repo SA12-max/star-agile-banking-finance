@@ -1,0 +1,2 @@
+[testnodes]
+samplenode1 ansible_ssh_host=10.0.1.188 ansible_ssh_user=ansibleadmin
